@@ -94,7 +94,7 @@ var text2=`# 自我介绍
 
 链接
 ----
-* [博客](https://Yokeagoni.github.io/)
+* [博客](https://yokeagoni.codes/)
 * [GitHub](https://github.com/Yokeagoni)
 
 联系我
