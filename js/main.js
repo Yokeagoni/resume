@@ -11,7 +11,7 @@ var text1=`/*
   transition: all 2s;
 }
 html{
-  background: #f8f;
+  background: #7b68ee;
 }
 #code{
   border: 1px solid #aaa;
@@ -20,7 +20,7 @@ html{
 
 /* 这样太单调了，给代码和背景来点颜色 */
 .token.punctuation {
-  color: #6666ff;
+  color: #999;
 }
 .token.selector {
   color: #690;
@@ -43,10 +43,10 @@ html{
   width: 48%;
   height: 100vh;
   padding: 16px;
-  background: #6666ff;
+  background: #7b68ee;
 }
 #paper>.content{
-  background: #6666ff;
+  background: #7b68ee;
   width: 100%;
   height: 100%;
   padding: 20px;
