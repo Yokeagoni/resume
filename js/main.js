@@ -18,9 +18,9 @@ html{
   padding: 3%;
 }
 
-/* 这样太单调了，给代码来点颜色 */
+/* 这样太单调了，给代码和背景来点颜色 */
 .token.punctuation {
-  color: #999;
+  color: #6666ff;
 }
 .token.selector {
   color: #690;
@@ -43,10 +43,10 @@ html{
   width: 48%;
   height: 100vh;
   padding: 16px;
-  background: #f8f;
+  background: #6666ff;
 }
 #paper>.content{
-  background: #f8f;
+  background: #6666ff;
   width: 100%;
   height: 100%;
   padding: 20px;
@@ -91,7 +91,7 @@ var text2=`# 自我介绍
 
 链接
 ----
-* [技术博客](https://Yokeagoni.github.io/)
+* [博客](https://Yokeagoni.github.io/)
 * [GitHub](https://github.com/Yokeagoni)
 
 联系我
