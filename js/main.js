@@ -147,12 +147,12 @@ function writeLeft(fn){
     code.innerHTML=Prism.highlight(text1.substring(0,n), Prism.languages.css);
     styleTag.innerHTML=text1.substring(0,n);
     code.scrollTop=code.scrollHeight;
-    n += 0.9
+    n += 1
     if(n>=text1.length){
       window.clearInterval(intervalId1);
       fn();
     }
-  },10)
+  },10000)
 }
 
 /***********************************开始在右边创建一个空白纸用来写markdown******************************************/
