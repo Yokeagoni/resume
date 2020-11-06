@@ -152,11 +152,7 @@ function writeLeft(fn){
       window.clearInterval(intervalId1);
       fn();
     }
-<<<<<<< HEAD
   },900)
-=======
-  },1000)
->>>>>>> parent of 3f36733... 更新 main.js
 }
 
 /***********************************开始在右边创建一个空白纸用来写markdown******************************************/
