@@ -11,7 +11,7 @@ var text1=`/*
   transition: all 2s;
 }
 html{
-  background: #7b68ee;
+  background: #eef8ff;
 }
 #code{
   border: 1px solid #aaa;
@@ -43,10 +43,10 @@ html{
   width: 48%;
   height: 100vh;
   padding: 16px;
-  background: #7b68ee;
+  background: #eef8ff;
 }
 #paper>.content{
-  background: #7b68ee;
+  background: #eef8ff;
   width: 100%;
   height: 100%;
   padding: 20px;
@@ -178,7 +178,7 @@ function writeRight(fn){
       window.clearInterval(intervalId2);
       fn();
     }
-  },70)
+  },100)
 }
 
 /**********************************将左边倾斜*****************************************/
