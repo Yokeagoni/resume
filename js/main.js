@@ -11,7 +11,7 @@ var text1=`/*
   transition: all 2s;
 }
 html{
-  background: #25d025;
+  background: #25d;
 }
 #code{
   border: 1px solid #aaa;
