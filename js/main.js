@@ -1,6 +1,6 @@
 /**********************************文档区*****************************************/
 var text1=`/*
-* 大家好，我是AYJCSGM。
+* 大家好，我是杨嘉祺。
 * 下面我来简单介绍一下我自己。
 * 但是文字介绍过于单调。
 * 今天，来点不一样的。
@@ -11,7 +11,7 @@ var text1=`/*
   transition: all 2s;
 }
 html{
-  background: #25d;
+  background: #8dc;
 }
 #code{
   border: 1px solid #aaa;
@@ -46,7 +46,7 @@ html{
   background: #ccc;
 }
 #paper>.content{
-  background: #fff;
+  background: #8dc;
   width: 100%;
   height: 100%;
   padding: 20px;
