@@ -11,7 +11,7 @@ var text1=`/*
   transition: all 2s;
 }
 html{
-  background: #8dc;
+  background: #f8f;
 }
 #code{
   border: 1px solid #aaa;
@@ -43,10 +43,10 @@ html{
   width: 48%;
   height: 100vh;
   padding: 16px;
-  background: #ccc;
+  background: #f8f;
 }
 #paper>.content{
-  background: #8dc;
+  background: #f8f;
   width: 100%;
   height: 100%;
   padding: 20px;
@@ -58,72 +58,48 @@ html{
 
 var text2=`# 自我介绍
 
-AYJCSGM
+杨嘉祺
 ----
-23岁，Java软件工程师，三年Java EE 从业经验，目前在北京工作。
-有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控。
+大三在读学生，热爱编程技术
+有良好的文档编习惯和代码书写规范，能独立解决问题、百折不挠、忠于每一个细节。
 <br/>
 
+求职意向
+----
+软件开发工程师
 
 技能
 ----
 * 后端开发
-* 聚合支付
-* 单点登录
-* 权限管理
-* 公众号/小程序开发
-* API接口开发
 * Linux
 * 开源爱好者
 * 博客系统
 
 技术及语言
 ----
-  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
-  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
-  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis、memcached
-  - **web 服务器**: Nginx、Tomcat、Apache、Jetty
+  - **C**: 语法，数据结构
+  - **MATLAB**: 矩阵及其运算、程序流程控制、绘图、数据分析与多项式运算、曲线拟合
+  - **数据库**: SQLServer
+  - **数据结构与算法**: 物理和逻辑结构，基本算法
   - **OS**: Linux、Windows
-  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
-
-工作经历
-----
-1. [北京江融信科技有限公司](http://www.jiangrongxin.com/)
+  - **Others**: Git
 
 
 开源项目
 ----
-1. [基于SpringBoot + Semantic UI + JPA的个人博客](https://github.com/AYJCSGM/spring-boot-blog)
-2. [问卷调查系统](https://github.com/AYJCSGM/survey-system)
-3. [企业级博客](https://github.com/AYJCSGM/Enterprise-Blog)
-4. [客户管理系统](https://github.com/AYJCSGM/ClientManageSystem)
-5. [一个会动的简历](https://github.com/AYJCSGM/resume)
-6. [仓库管理系统](https://gitee.com/ayjcsgm/WM)
-7. [AYJCSGM的技术博客网站](https://github.com/AYJCSGM/AYJCSGM.github.io)
+[Yoke博客网站](https://github.com/Yokeagoni/Yokeagoni.github.io)
 
 链接
 ----
-* [技术博客](https://ayjcsgm.github.io/)
-* [GitHub](https://github.com/AYJCSGM)
-* [码云](https://gitee.com/ayjcsgm)
-* [CSDN](https://blog.csdn.net/weixin_43664418)
-* [开发笔记](https://github.com/AYJCSGM/AYJCSGM.github.io)
-
-[归档文章](https://ayjcsgm.github.io/)
-----
-1. [Java](https://ayjcsgm.github.io/tags/java/)
-2. [Linux](https://ayjcsgm.github.io/tags/Linux/)
-3. [Spring](https://ayjcsgm.github.io/tags/Spring)
-4. [MySQL](https://ayjcsgm.github.io/tags/SQL)
-5. [Hexo](https://ayjcsgm.github.io/tags/Hexo)
-6. [Docker](https://ayjcsgm.github.io/tags/Docker/)
+* [技术博客](https://Yokeagoni.github.io/)
+* [GitHub](https://github.com/Yokeagoni)
 
 联系我
 ----
-* 联系QQ：**1141341095** 
-* 主要涉及技术：**Java后端开发**、**聚合支付**、**公众号开发**、**开源爱好者**、**Linux** 
+* 联系邮箱：**qi12181014@gmail.com** 
+* 主要涉及技术：**开源爱好者**、**Linux** 
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/AYJCSGM/resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/Yokeagoni/resume)，打造你自己的简历！
 `;
 
 var text3=`
@@ -202,7 +178,7 @@ function writeRight(fn){
       window.clearInterval(intervalId2);
       fn();
     }
-  },10)
+  },30)
 }
 
 /**********************************将左边倾斜*****************************************/
