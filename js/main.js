@@ -10,6 +10,7 @@ var text1=`/*
 *{
   transition: all 2s;
 }
+/* 这样太单调了，先给背景来个颜色 */
 html{
   background: #eef;
 }
@@ -18,7 +19,7 @@ html{
   padding: 3%;
 }
 
-/* 这样太单调了，给代码和背景来点颜色 */
+/* 再给代码来点颜色 */
 .token.punctuation {
   color: #999;
 }
