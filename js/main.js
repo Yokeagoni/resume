@@ -147,7 +147,7 @@ function writeLeft(fn){
     code.innerHTML=Prism.highlight(text1.substring(0,n), Prism.languages.css);
     styleTag.innerHTML=text1.substring(0,n);
     code.scrollTop=code.scrollHeight;
-    n += 0.1
+    n += 0.9
     if(n>=text1.length){
       window.clearInterval(intervalId1);
       fn();
