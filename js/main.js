@@ -101,7 +101,7 @@ var text2=`# 自我介绍
 * 联系邮箱：**qi12181014@gmail.com** 
 * 主要涉及技术：**开源爱好者**、**Linux** 、**基础HTML**
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/Yokeagoni/resume)，打造你自己的简历！
+> 如果你喜欢我，请多多支持我！
 `;
 
 var text3=`
