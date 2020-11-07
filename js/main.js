@@ -12,7 +12,7 @@ var text1=`/*
 *{
   transition: all 2s;
 }
-/* 这样太单调了，先给背景来个颜色和加点3D效果 */
+/* 这样太单调了，先给背景来个颜色和加个边框吧 */
 html{
   background: #eef;
 }
